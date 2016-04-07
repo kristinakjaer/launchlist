@@ -73,6 +73,7 @@ Ron[Joker]*
 * Build and Upload the Release-ready APK
 * Plan a Beta Release
 * Complete the Apps’ Store Listing
+* Oki dokey we did some changes
 
 ###Group 5
 
